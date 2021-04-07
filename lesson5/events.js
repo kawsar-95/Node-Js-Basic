@@ -1,6 +1,6 @@
 //Event Module
 
-const School = require('./school')
+const School = require('../lesson5/school')
 
 const school = new School;
 
